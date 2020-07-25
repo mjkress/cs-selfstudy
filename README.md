@@ -1,10 +1,12 @@
-# cs-selfstudy
+# Self Study Plan
 
-## Plan:
+## Overview:
 ### Study Schedule: 
-1-1.5 hrs every morning 6-7:30am 
-### Practice Problems/Side-Projects: 
-no strict schedule; find time in evenings/weekends
+1-1.5 hrs every morning 6-7:30am for studying (video lectures, books, exercises - not projects)
+### Side-Projects/Coding Challenge Sites
+No strict schedule; find time in evenings/weekends
+### Flashcards and Cheatsheets
+Update and Referece requently
 
 ## Resources/Guides: 
 Resource | Description
@@ -23,13 +25,17 @@ Resource | Description
 - [ ] [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | 4-8 hours/week | How to Code ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh))
 - [ ] [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 4-8 hours/week | Programming Languages, Part A
 - [ ] [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 4-8 hours/week | Programming Languages, Part B
+### Specialization
+- [ ] [Python for Data Science and Machine Learning](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) | Started June 28, 2020 | 25 hours | Progress: 24/166 Lecture
+
+
 
 ## Book Completion Checklist
 ### Core
 - [ ] [How to Design Programs](https://htdp.org/2003-09-26/)
-- [ ] 
+- [ ] [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/)
 ### Specializations
-- [ ] 
+- [ ] [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/download.html)
  
 ## Portfolio Project Ideas
 * Bike Geometry Comparison Tool
