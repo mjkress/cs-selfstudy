@@ -53,9 +53,11 @@ Resource | Description
 ## Portfolio Project Ideas
 * Bike Geometry Comparison Tool
 * Rhino CAM Plugin
+* Rhino Parametric Part Families to G-Code Program
 * G-Code/Robot Code Compiler
 * OpenCASCADE Feature Recognition Example
-* ML Feature Recognition Example
+* Machine Learning 3D Feature Recognition Example
+* Computer Vision App for Checking Tool names
 * 2D CAD Sketch Editor
 * Mesh, Point-Cloud, Brep Algorithms Libraries 
 
