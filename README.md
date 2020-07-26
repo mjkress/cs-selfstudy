@@ -1,6 +1,6 @@
 # Self Study Plan 
 ## Motivation:
-This repo will serve to track my self study progress starting in July 2020. I'm currently working as a software developer in an R&D capacity at a construction technology company in Vancouver, British Columbia. While I love and am passionate about the work, since beginning this role in Winter 2019, I've encountered many challenges that exposed some of my more half-baked computer science knowledge. While I am continuously learning and able to get by in my current role without a solid computer science foundation, part of me knows I will not be fulfilled without this deeper knowledge. It will also be more challenging to contribute to more innovative work, which is incredibly important to me. This study plan aims to build a solid foundation for a career in software engineering (Core), challenge my problem solving skills (Coding Challenges/Side Projects), learn new specialization areas (e.g., Data Science/Machine Learning, Robotics, Compilers) and also to fill in gaps for topics I already have some experience with (computer graphics, computational geometry, CAD/CAM, kinematic simulation). <br>
+This repo will serve to track my self study progress starting in July 2020. I'm currently working as a software developer in an R&D capacity at a construction technology company in Vancouver, British Columbia. While I love and am passionate about the work, since beginning this role in Winter 2019, I've encountered many challenges that exposed some of my more half-baked computer science knowledge. <br>While I have learned a lot as I transitioned to a developer role, I believe dedicated and focused efforts towards education outside of work will necessary for me if I want the work to be as fulfilling as it could be. This study plan aims to build a solid foundation for a career in software engineering (Core), challenge my problem solving skills (Coding Challenges/Side Projects), learn new specialization areas (e.g., Data Science/Machine Learning, Robotics, Compilers) and also to fill in gaps for topics I already have some experience with (computer graphics, computational geometry, CAD/CAM, kinematic simulation). <br>
 I will be checking off courses as I complete them and labeling in-work courses as such, for anyone who may want to check in on my progress.
 
 ## Overview:
@@ -14,7 +14,7 @@ No strict schedule; Try to find time in evenings/weekends (10-15 minutes at a ti
 Update and Referece requently
 
 ## Resources/Guides: 
-This Study plan is largely based off the 3 self-taught CS resources below.
+This Study plan is primarily based off the 3 self-taught CS resources below. 
 Resource | Description
 ---------|------------
   [Open-Source Society Univ. (OSSU)](https://github.com/ossu/) | Aims to provide the same education as a undergraduate CS program; Fairly comprehensive but less currated; Primary Guide used; 
