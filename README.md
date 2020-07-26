@@ -1,4 +1,6 @@
-# Self Study Plan
+# Self Study Plan 
+## Motivation:
+This repo will serve to track my self study progress starting in July 2020. I'm currently working as a software developer in an R&D capacity at a construction technology company in Vancouver, British Columbia. Since beginning this role in Winter 2019, I've come across many challenges due to my limited programming and/or computer science knowledge. While I am continuously learning and able to get by in my current role without a solid Computer Science foundation, part of me knows I will not be fulfilled without this deeper knowledge. It will also be more challenging to contribute to more innovative work, which is incredibly important to me. This Study Plan aims to build a solid foundation for a career in software engineering(Core), challenge my problem solving skills(Coding Challenges/Side Projects), learn some new specialization areas (e.g., Data Science/Machine Learning, Robotics, Compilers) and also to fill in gaps for topics I already have some experience with (computer graphics, computational geometry, CAD/CAM, kinematic simulation). I will be checking off courses as I complete them and labeling in-work courses as such, for anyone who may want to check in on my progress. 
 
 ## Overview:
 ### Study Schedule: 
@@ -11,6 +13,7 @@ No strict schedule; Try to find time in evenings/weekends (10-15 minutes at a ti
 Update and Referece requently
 
 ## Resources/Guides: 
+This Study plan is largely based off the 3 self-taught CS resources below.
 Resource | Description
 ---------|------------
   [Open-Source Society Univ. (OSSU)](https://github.com/ossu/) | Aims to provide the same education as a undergraduate CS program; Fairly comprehensive but less currated; Primary Guide used; 
@@ -22,13 +25,19 @@ Resource | Description
 - [ ] [Intro to CS and Programming](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) | Begins August 26 | 9 weeks | 15 hrs/wk
 - [ ] [CS Tools](https://missing.csail.mit.edu/) | 2 weeks | 12 hrs/wk
 ### Core Programming
-- [ ] [How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | 7 weeks | 8-10 hours/week | none
-- [ ] [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | 6 weeks | 8-10 hours/week | How to Code: Simple Data
-- [ ] [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | 4-8 hours/week | How to Code ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh))
-- [ ] [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 4-8 hours/week | Programming Languages, Part A
-- [ ] [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 4-8 hours/week | Programming Languages, Part B
+- [ ] [How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | 7 weeks | 8-10 hours/week 
+- [ ] [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | 6 weeks | 8-10 hours/week 
+- [ ] [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | 4-8 hours/week 
+- [ ] [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 4-8 hours/week
+- [ ] [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 4-8 hours/week 
 ### Specialization
-- [ ] [Python for Data Science and Machine Learning](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) | Started June 28, 2020 | 25 hours | Progress: 24/166 Lecture
+- [ ] **In Progress** [Python for Data Science and Machine Learning](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) | Started June 28, 2020 | 25 hours | **Progress: 24/166 Lecture**
+- [ ] [Compilers](https://www.edx.org/course/compilers) | 9 weeks | 6-8 hours/week
+- [ ] [Computational Geometry](https://www.edx.org/course/computational-geometry) | 16 weeks | 8 hours/week
+- [ ] [Parallel Programming](https://www.coursera.org/learn/parprog1) | 4 weeks | 6-8 hours/week
+- [ ] [Modern Robotics](https://www.coursera.org/specializations/modernrobotics) | 26 weeks | 2-5 hours/week
+- [ ] [Data Science](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week
+- [ ] [CAD/CAM Development]()
 
 ## Book Completion Checklist
 ### Core
