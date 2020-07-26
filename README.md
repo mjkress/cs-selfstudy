@@ -73,22 +73,35 @@ Resource | Description
 - [ ] [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | 4 hours/week 
 - [ ] [Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | 4 weeks | 5 hours/week
 
+## Advanced CS
 
-### Specialization
-- [ ] **In Progress** [Python for Data Science and Machine Learning](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) | Started June 28, 2020 | 25 hours | **Progress: 24/166 Lecture**
+### Advanced Programming
+
 - [ ] [Compilers](https://www.edx.org/course/compilers) | 9 weeks | 6-8 hours/week
-- [ ] [Computational Geometry](https://www.edx.org/course/computational-geometry) | 16 weeks | 8 hours/week
 - [ ] [Parallel Programming](https://www.coursera.org/learn/parprog1) | 4 weeks | 6-8 hours/week
+- [ ] [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| 8 weeks | 6 hours/week 
+- [ ] [Software Testing](https://www.udacity.com/course/software-testing--cs258) | 4 weeks | 6 hours/week 
+- [ ] [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)| 8 weeks | 6 hours/week 
+
+### Advanced Theory
+- [ ] [Computational Geometry](https://www.edx.org/course/computational-geometry-tsinghuax-70240183x) | 16 weeks | 8 hours/week 
+- [ ] [Introduction to Formal Concept Analysis](https://www.coursera.org/learn/formal-concept-analysis) | 6 weeks | 4-6 hours/week
+
+### Advanced Applications
 - [ ] [Modern Robotics](https://www.coursera.org/specializations/modernrobotics) | 26 weeks | 2-5 hours/week
 - [ ] [Data Science](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week
+
+### Extras/Special Topics
+- [ ] **In Progress** [Python for Data Science and Machine Learning](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) | Started June 28, 2020 | 25 hours | **Progress: 24/166 Lecture**
 - [ ] [CAD/CAM Development]()
 
-## Book Completion Checklist
-### Core
+## Book's
+### Core Programming
 - [ ] [How to Design Programs](https://htdp.org/2003-09-26/)
 - [ ] [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/)
 ### Specializations
 - [ ] [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/download.html)
+- [ ] [Shape Interogation for CAD/CAM](http://deslab.mit.edu/DesignLab/tmaekawa/book/mathe.pdf)
 ### Interview Prep
 - [ ] [Programming Interviews Exposed: Coding Your Way Through the Interview, 4th Edition](https://www.amazon.com/Programming-Interviews-Exposed-Through-Interview/dp/111941847X/)
     - answers in C++ and Java
