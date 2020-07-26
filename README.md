@@ -1,6 +1,7 @@
 # Self Study Plan 
 ## Motivation:
-This repo will serve to track my self study progress starting in July 2020. I'm currently working as a software developer in an R&D capacity at a construction technology company in Vancouver, British Columbia. Since beginning this role in Winter 2019, I've come across many challenges due to my limited programming and/or computer science knowledge. While I am continuously learning and able to get by in my current role without a solid Computer Science foundation, part of me knows I will not be fulfilled without this deeper knowledge. It will also be more challenging to contribute to more innovative work, which is incredibly important to me. This Study Plan aims to build a solid foundation for a career in software engineering(Core), challenge my problem solving skills(Coding Challenges/Side Projects), learn some new specialization areas (e.g., Data Science/Machine Learning, Robotics, Compilers) and also to fill in gaps for topics I already have some experience with (computer graphics, computational geometry, CAD/CAM, kinematic simulation). I will be checking off courses as I complete them and labeling in-work courses as such, for anyone who may want to check in on my progress. 
+This repo will serve to track my self study progress starting in July 2020. I'm currently working as a software developer in an R&D capacity at a construction technology company in Vancouver, British Columbia. While I love and am passionate about the work, since beginning this role in Winter 2019, I've encountered many challenges that exposed some of my more half-baked computer science knowledge. While I am continuously learning and able to get by in my current role without a solid computer science foundation, part of me knows I will not be fulfilled without this deeper knowledge. It will also be more challenging to contribute to more innovative work, which is incredibly important to me. This study plan aims to build a solid foundation for a career in software engineering (Core), challenge my problem solving skills (Coding Challenges/Side Projects), learn new specialization areas (e.g., Data Science/Machine Learning, Robotics, Compilers) and also to fill in gaps for topics I already have some experience with (computer graphics, computational geometry, CAD/CAM, kinematic simulation). 
+I will be checking off courses as I complete them and labeling in-work courses as such, for anyone who may want to check in on my progress.
 
 ## Overview:
 ### Study Schedule: 
@@ -21,15 +22,24 @@ Resource | Description
   [Coding Interview University](https://github.com/jwasham/coding-interview-university) | Interview-prep study resources/strategies; Use this a few months before applying for jobs
 
 ## Course Completion Checklist
+
 ### Introduction to Computer Science
 - [ ] [Intro to CS and Programming](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) | Begins August 26 | 9 weeks | 15 hrs/wk
 - [ ] [CS Tools](https://missing.csail.mit.edu/) | 2 weeks | 12 hrs/wk
+
 ### Core Programming
 - [ ] [How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | 7 weeks | 8-10 hours/week 
 - [ ] [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | 6 weeks | 8-10 hours/week 
 - [ ] [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | 4-8 hours/week 
 - [ ] [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 4-8 hours/week
 - [ ] [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 4-8 hours/week 
+
+### Math
+- [ ] [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | 14 weeks | 12 hours/week | Review 
+- [ ] [Mathematics for CS](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | 13 weeks | 5 hours/week
+
+### Core 
+
 ### Specialization
 - [ ] **In Progress** [Python for Data Science and Machine Learning](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) | Started June 28, 2020 | 25 hours | **Progress: 24/166 Lecture**
 - [ ] [Compilers](https://www.edx.org/course/compilers) | 9 weeks | 6-8 hours/week
