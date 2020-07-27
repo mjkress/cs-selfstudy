@@ -1,6 +1,9 @@
 # Self Study Plan 
 ## Motivation:
-This repo will serve to track my self study progress starting in July 2020. I'm currently working as a software developer in an R&D capacity at a construction technology company in Vancouver, British Columbia. While I love and am passionate about the work, since beginning this role in Winter 2019, I've encountered many challenges that exposed some of my more half-baked computer science knowledge. <br>While I have learned a lot as I transitioned to a developer role, I believe dedicated and focused efforts towards education outside of work will necessary for me if I want the work to be as fulfilling as it could be. This study plan aims to build a solid foundation for a career in software engineering (Core), challenge my problem solving skills (Coding Challenges/Side Projects), learn new specialization areas (e.g., Data Science/Machine Learning, Robotics, Compilers) and also to fill in gaps for topics I already have some experience with (computer graphics, computational geometry, CAD/CAM, kinematic simulation). <br>
+This repo will serve to track my self study progress starting in July 2020. I'm currently working as a software developer in an R&D capacity at a construction technology company in Vancouver, British Columbia. While I love and am passionate about the work, since beginning this role in Winter 2019, I've encountered challenges that have revealed many areas that I could improve. Addressing these short-comings will allow me to write better code and solve bigger problems. <br><br>
+
+While I have learned a lot as I transitioned to a developer role, I believe dedicated and focused efforts towards education outside of work will be necessary for me to feel more fulfilled. This study plan aims to build a solid foundation for a career in software engineering (Core), challenge my problem solving skills (Coding Challenges/Side Projects), expose myself special topics in CS (e.g., Data Science/Machine Learning, Robotics, Compilers) and also to fill in gaps for topics I already have some experience with (computer graphics, computational geometry, CAD/CAM, kinematic simulation). <br><br>
+
 I will be checking off courses as I complete them and labeling in-work courses as such, for anyone who may want to check in on my progress.
 
 ## Overview:
@@ -92,7 +95,7 @@ Resource | Description
 - [ ] [Data Science](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week
 
 ### Extras/Special Topics
-- [ ] **In Progress** [Python for Data Science and Machine Learning](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) | Started June 28, 2020 | 25 hours | **Progress: 24/166 Lecture**
+- [ ] **In Progress** [Python for Data Science and Machine Learning](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) | Started June 28, 2020 | 25 hours | **Progress: 29/166 Lectures**
 - [ ] [CAD/CAM Development]()
 
 ## Book's
