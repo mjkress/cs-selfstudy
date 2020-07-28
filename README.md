@@ -2,7 +2,7 @@
 ## Motivation:
 This repo will serve to track my self study progress starting in July 2020. I'm currently working as a software developer in an R&D capacity at a construction technology company in Vancouver, British Columbia. While I love and am passionate about the work, since beginning this role in Winter 2019, I've encountered challenges that have revealed many areas that I could improve. Addressing these short-comings will allow me to write better code and solve bigger problems. <br><br>
 
-While I have learned a lot as I transitioned to a developer role, I believe dedicated and focused efforts towards education outside of work will be necessary for me to feel more fulfilled. This study plan aims to build a solid foundation for a career in software engineering (Core), challenge my problem solving skills (Coding Challenges/Side Projects), expose myself special topics in CS (e.g., Data Science/Machine Learning, Robotics, Compilers) and also to fill in gaps for topics I already have some experience with (computer graphics, computational geometry, CAD/CAM, kinematic simulation). <br><br>
+While I have learned a lot as I transitioned to a developer role, I believe dedicated and focused efforts towards education outside of work will be necessary for me to feel more fulfilled. This study plan aims to build a solid foundation for a career in software engineering (Core), challenge my problem solving skills (Coding Challenges/Side Projects), expose myself to special topics in CS (e.g., Data Science/Machine Learning, Robotics, Compilers) and also to fill in gaps for topics I already have some experience with (computer graphics, computational geometry, CAD/CAM, kinematic simulation). <br><br>
 
 I will be checking off courses as I complete them and labeling in-work courses as such, for anyone who may want to check in on my progress.
 
@@ -95,13 +95,13 @@ Resource | Description
 - [ ] [Data Science](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week
 
 ### Extras/Special Topics
-- [ ] **In Progress** [Python for Data Science and Machine Learning](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) | Started June 28, 2020 | 25 hours | **Progress: 33/166 Lectures**
+- [ ] **In Progress** [Python for Data Science and Machine Learning](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) | Started June 28, 2020 | 25 hours | **Progress: 34/166 Lectures**
 - [ ] [CAD/CAM Development]()
 
 ## Book's
 ### Core Programming
 - [ ] [How to Design Programs](https://htdp.org/2003-09-26/)
-- [ ] [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/)
+- [ ] **In Progress** [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/) **Progress: 1.4/5.3 Chapters**
 ### Specializations
 - [ ] [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/download.html)
 - [ ] [Shape Interogation for CAD/CAM](http://deslab.mit.edu/DesignLab/tmaekawa/book/mathe.pdf)
