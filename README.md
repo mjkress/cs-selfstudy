@@ -118,7 +118,10 @@ Resource | Description
 - [ ] [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
 ### Python
 - [ ] [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
- 
+### JavaScript
+- [ ] [Let's Learn ES6](https://bubblin.io/book/let-s-learn-es6-by-ryan-christiani/7)
+- [ ] [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+
 ## Portfolio Project Ideas
 * Bike Geometry Comparison Tool
 * Rhino CAM Plugin
