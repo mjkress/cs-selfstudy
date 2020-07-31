@@ -101,7 +101,7 @@ Resource | Description
 ## Book's
 ### Core Programming
 - [ ] [How to Design Programs](https://htdp.org/2003-09-26/)
-- [ ] **In Progress** [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/) **Progress: 1.4/5.3 Chapters**
+- [ ] **In Progress** [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/) **Progress: 1.5.3/5.3 Chapters**
 ### Specializations
 - [ ] [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/download.html)
 - [ ] [Shape Interogation for CAD/CAM](http://deslab.mit.edu/DesignLab/tmaekawa/book/mathe.pdf)
