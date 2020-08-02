@@ -96,6 +96,7 @@ Resource | Description
 
 ### Extras/Special Topics
 - [ ] **In Progress** [Python for Data Science and Machine Learning](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) | Started June 28, 2020 | 25 hours | **Progress: 52/166 Lectures**
+- [ ] [Hello World With Robotics Operating System](https://courses.edx.org/courses/course-v1:DelftX+ROS1x+3T2018/course/)  | 6 weeks
 - [ ] [CAD/CAM Development]()
 
 ## Book's
