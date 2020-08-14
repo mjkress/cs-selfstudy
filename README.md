@@ -34,7 +34,7 @@ Resource | Description
 
 ## Core CS
 
-### Core Programming
+### Core Programming [book: [How To Design Programs](https://htdp.org/2003-09-26/)]
 - [ ] [How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | 7 weeks | 8-10 hours/week 
 - [ ] [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | 6 weeks | 8-10 hours/week 
 - [ ] [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | 4-8 hours/week 
@@ -95,7 +95,7 @@ Resource | Description
 - [ ] [Data Science](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week
 
 ### Extras/Special Topics
-- [ ] **In Progress** [Python for Data Science and Machine Learning](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) | Started June 28, 2020 | 25 hours | **Progress: 95/166 Lectures**
+- [ ] **In Progress** [Python for Data Science and Machine Learning](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) | Started June 28, 2020 | 25 hours | **Progress: 102/166 Lectures**
 - [ ] [Hello World With Robotics Operating System](https://courses.edx.org/courses/course-v1:DelftX+ROS1x+3T2018/course/)  | 6 weeks
 - [ ] [CAD/CAM Development]()
 
