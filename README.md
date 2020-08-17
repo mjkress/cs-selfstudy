@@ -119,6 +119,7 @@ Resource | Description
 ### Python
 - [ ] [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
 ### JavaScript
+- [ ] [Eloquent JavaScript](https://eloquentjavascript.net/index.html)
 - [ ] [Let's Learn ES6](https://bubblin.io/book/let-s-learn-es6-by-ryan-christiani/7)
 - [ ] [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
