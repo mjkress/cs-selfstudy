@@ -94,7 +94,7 @@ Resource | Description
 - [ ] [Data Science](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week
 
 ### Extras/Special Topics
-- [ ] **In Progress** [Python for Data Science and Machine Learning](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) | Started June 28, 2020 | 25 hours | **Progress: 102/166 Lectures**
+- [ ] **In Progress** [Python for Data Science and Machine Learning](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) | Started June 28, 2020 | 25 hours | **Progress: 117/166 Lectures**
 - [ ] [Hello World With Robotics Operating System](https://courses.edx.org/courses/course-v1:DelftX+ROS1x+3T2018/course/)  | 6 weeks
 - [ ] [CAD/CAM Development]()
 
