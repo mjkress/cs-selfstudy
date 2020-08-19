@@ -94,14 +94,14 @@ Resource | Description
 - [ ] [Data Science](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week
 
 ### Extras/Special Topics
-- [ ] **In Progress** [Python for Data Science and Machine Learning](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) | Started June 28, 2020 | 25 hours | **Progress: 117/166 Lectures**
+- [ ] **In Progress** [Python for Data Science and Machine Learning](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) | Started June 28, 2020 | 25 hours | **Progress: 123/166 Lectures**
 - [ ] [Hello World With Robotics Operating System](https://courses.edx.org/courses/course-v1:DelftX+ROS1x+3T2018/course/)  | 6 weeks
 - [ ] [CAD/CAM Development]()
 
 ## Book's
 ### Core Programming
 - [ ] [How to Design Programs](https://htdp.org/2003-09-26/)
-- [ ] **In Progress** [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/) **Progress: 1.5.3/5.3 Chapters**
+- [ ] **In Progress** [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/) **Progress: 2.2/5.3 Chapters**
 ### Specializations
 - [ ] [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/download.html)
 - [ ] [Shape Interogation for CAD/CAM](http://deslab.mit.edu/DesignLab/tmaekawa/book/mathe.pdf)
