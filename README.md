@@ -29,7 +29,7 @@ Resource | Description
 ## Intro
 
 ### Introduction to Computer Science
-- [ ] [Intro to CS and Programming with Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) | Begins August 26 | 9 weeks | 15 hrs/wk
+- [x] [Intro to CS and Programming with Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) | Begins August 26 | 9 weeks | 15 hrs/wk | Completed 80% of problems
 - [ ] [CS Tools](https://missing.csail.mit.edu/) | 2 weeks | 12 hrs/wk
 
 ## Core CS
