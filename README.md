@@ -49,7 +49,7 @@ Resource | Description
 - [ ] [Introduction to CS - CS50 (C portion)](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) | 6 weeks | 10-20 hours/week
 - [ ] [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](http://www.nand2tetris.org/)) | 6 weeks | 7-13 hours/week 
 - [ ] [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | 12-18 hours/week 
-- [ ] [Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG)| 8 weeks | 4–12 hours/week | 
+- [ ] [Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG) | 8 weeks | 4–12 hours/week | 
     - [ ] [Assignment 1](https://github.com/PrincetonUniversity/COS461-Public/tree/master/assignments/assignment1)<br>
     - [ ] [Assignment 2](https://www.scs.stanford.edu/10au-cs144/lab/reliable/reliable.html)<br>
     - [ ] [Assignment 3](https://nptel.ac.in/content/storage2/courses/106105080/pdf/M2L7.pdf)<br>
@@ -71,7 +71,7 @@ Resource | Description
 
 ### Core Security (Consider skipping depending on pace or working through these when you need a breather from the heavier stuff)
 - [ ] [Information Security: Context and Introduction](https://www.coursera.org/learn/information-security-data) | 5 weeks | 3 hours/week 
-- [ ] [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | 4 hours/week 
+- [ ] [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles) | 4 weeks | 4 hours/week 
 - [ ] [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | 4 hours/week 
 - [ ] [Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | 4 weeks | 5 hours/week
 
@@ -81,9 +81,9 @@ Resource | Description
 
 - [ ] [Compilers](https://www.edx.org/course/compilers) | 9 weeks | 6-8 hours/week
 - [ ] [Parallel Programming](https://www.coursera.org/learn/parprog1) | 4 weeks | 6-8 hours/week
-- [ ] [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| 8 weeks | 6 hours/week 
+- [ ] [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | 8 weeks | 6 hours/week 
 - [ ] [Software Testing](https://www.udacity.com/course/software-testing--cs258) | 4 weeks | 6 hours/week 
-- [ ] [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)| 8 weeks | 6 hours/week 
+- [ ] [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821) | 8 weeks | 6 hours/week 
 
 ### Advanced Theory
 - [ ] [Computational Geometry](https://www.edx.org/course/computational-geometry-tsinghuax-70240183x) | 16 weeks | 8 hours/week 
@@ -91,12 +91,17 @@ Resource | Description
 
 ### Advanced Applications
 - [ ] [Modern Robotics](https://www.coursera.org/specializations/modernrobotics) | 26 weeks | 2-5 hours/week
+    - [x] Course 1: Foundations of Robot Motion
+    - [ ] Course 2: Robot Kinematics **In Progress**
+    - [ ] Course 3: Robot Dynamics
+    - [ ] Course 4: Robot Motion Planning and Control
+    - [ ] Course 5: Robot Manipulation and Wheeled Mobile Robots
+    - [ ] Course 6: Capstone Project - Mobile Manipulation 
 - [ ] [Data Science](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week
 
 ### Extras/Special Topics
 - [ ] **In Progress** [Python for Data Science and Machine Learning](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) | Started June 28, 2020 | 25 hours | **Progress: 123/166 Lectures**
-- [ ] [Hello World With Robotics Operating System](https://courses.edx.org/courses/course-v1:DelftX+ROS1x+3T2018/course/)  | 6 weeks
-- [ ] [CAD/CAM Development]()
+- [ ] [Hello World With Robotics Operating System](https://courses.edx.org/courses/course-v1:DelftX+ROS1x+3T2018/course/) | 6 weeks
 
 ## Book's
 ### Core Programming
